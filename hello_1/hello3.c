@@ -3,6 +3,6 @@
 void main(int argc, char *argv[])
 {
     printf("6th commit\n");
-	printf("change\n");
+    printf("change remote\n");
 }
 
